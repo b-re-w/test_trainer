@@ -8,7 +8,7 @@ dependencies = [
     "torch ; platform_system == 'Windows'",
     "torch>=2.8.0",
     "transformers>=4.55.2",
-    "transformer_engine ; platform_system == 'linux'",
+    "transformer_engine ; platform_system == 'Linux'",
     "accelerate>=1.10.0",
     "tqdm>=4.67.1",
     "wandb>=0.21.1",
