@@ -1,0 +1,3 @@
+[submodule "mxfp4_llm"]
+	path = mxfp4_llm
+	url = https://github.com/retentionlabs/mxfp4-llm.git
