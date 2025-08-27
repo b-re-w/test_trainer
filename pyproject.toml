@@ -26,7 +26,7 @@ torch = [
 torchvision = [
     { index = "pytorch-windows", marker = "platform_system == 'Windows'" },
 ]
-mx = { git = "https://github.com/retentionlabs/microxcaling.git", rev = "v1.1.0.patch0" }
+mx = { git = "https://github.com/retentionlabs/microxcaling.git", rev = "v1.1.1" }
 
 
 [[tool.uv.index]]
